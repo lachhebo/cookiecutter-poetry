@@ -13,6 +13,7 @@
         "click",
         "argparse"
     ],
+    "use_pypi_deployment_with_travis": "n",
     "create_author_file": "y",
     "create_docs": "y",
     "open_source_license": [
