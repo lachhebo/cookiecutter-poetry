@@ -33,7 +33,7 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `johanvergeer/cookiecutter-poetry`_ project template.
+This package was created with Cookiecutter_ and the `lachhebo/cookiecutter-poetry`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`johanvergeer/cookiecutter-poetry`: https://github.com/johanvergeer/cookiecutter-poetry
+.. _`johanvergeer/cookiecutter-poetry`: https://github.com/lachhebo/cookiecutter-poetry
